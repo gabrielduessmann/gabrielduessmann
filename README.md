@@ -4,6 +4,7 @@
 **gabrielduessmann/gabrielduessmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - I'm a Full Stack Developer
+- Intereseted in Java, Springboot and Angular
 - Currently living in Brazil
 <!--
 - 🌱 I’m currently learning ...
