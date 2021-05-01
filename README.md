@@ -3,7 +3,7 @@
 <!--
 **gabrielduessmann/gabrielduessmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- I'm a Full Stack Developer
+- I'm a Full Stack Web Developer
 - Interested in Java, Springboot, JUnit, Angular and Docker.
 - Currently living in Brazil
 <!--
